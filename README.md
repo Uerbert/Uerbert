@@ -17,7 +17,9 @@
  
   <img align="center" alt="Git" height="30" width="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg>"/>
 
-      
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+               
              
           
 
