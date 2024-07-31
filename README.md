@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Welcome to my profile! 😁
 
  <div>
    <a href="https://github.com/Uerbert">
@@ -6,17 +6,23 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uerbert&layout=compact&langs_count=6&theme=tokyonight"/>
    
 </div>
+
+  ### Skills
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
+
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
           
 </div>
  
  <br>
  
-  ### Redes para contato!
+  ### Contact networks!
  
 <div> 
  
